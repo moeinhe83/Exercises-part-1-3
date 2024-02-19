@@ -8,7 +8,7 @@ Program Name ===> The Third Exercise
 
 Question ===> Write A Program That Takes A Name From The User And Performs The Following Tasks:
 
-A: Capitalize The first letter of the name
+A: Capitalize The First letter of the name
 
 B: Minimize Everything
 
