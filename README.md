@@ -14,7 +14,7 @@ B: Minimize Everything
 
 C: Capitalize All Letters
 
-Description Of Files
+Description Of Files:
 
 practice_3_linux.py ===> For Linux [Ubuntu Or Kali]
 
