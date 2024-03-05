@@ -6,7 +6,7 @@ Programming Language ===> Python
 
 Program Name ===> The Third Exercise
 
-Question ===> Write A Program That Takes A Name From The User And Performs The Following Tasks:
+Example ===> ===> Write A Program That Takes A Name From The User And Performs The Following Tasks:
 
 A: Capitalize The First Letter Of The Name
 
